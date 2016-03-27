@@ -13,7 +13,7 @@ namespace Vocaliser.Tests
             const string GREETING = "Hello World!";
             string result = "";
 
-            IVocaliser testObject = new Vocaliser();
+            Inara.Vocaliser.IVocaliser testObject = new Inara.Vocaliser.Vocaliser();
             result = testObject.Speaker(GREETING);
 
             Assert.AreEqual(GREETING, result, "accepts and parrots greetings");

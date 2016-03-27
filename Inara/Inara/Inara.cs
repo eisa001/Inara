@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Vocaliser;
 
 namespace Inara
 {
@@ -13,7 +12,7 @@ namespace Inara
         {
             var input = Console.ReadLine();
 
-            IVocaliser output = new Vocaliser.Vocaliser();
+            Vocaliser.IVocaliser output = new Vocaliser.Vocaliser();
 
             Console.WriteLine(output.Speaker(input));
         }
