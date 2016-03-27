@@ -1,1 +1,6 @@
 C:\Users\Eyad\Inara\Inara\Inara\bin\Debug\Inara.exe.config
+C:\Users\Eyad\Inara\Inara\Inara\bin\Debug\Inara.exe
+C:\Users\Eyad\Inara\Inara\Inara\bin\Debug\Inara.pdb
+C:\Users\Eyad\Inara\Inara\Inara\obj\Debug\Inara.csprojResolveAssemblyReference.cache
+C:\Users\Eyad\Inara\Inara\Inara\obj\Debug\Inara.exe
+C:\Users\Eyad\Inara\Inara\Inara\obj\Debug\Inara.pdb
